@@ -1,0 +1,25 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::setPolice(bool)	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:18:1:Model::Model()	8	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:33:6:void Model::tick()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:76:6:void Model::sendStartSensingCommPacket()	4	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:85:6:void Model::sendStopSensingCommPacket()	4	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:96:6:void Model::turnBuzzerOn()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:103:6:void Model::turnBuzzerOff()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:112:6:bool Model::getAlarmSystemState()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:117:6:bool Model::getCountdownAlarmSetState()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:122:6:bool Model::getCountdownOngoingAlarmSetState()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:129:6:void Model::activateAlarmSystem()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:137:6:void Model::activateOngoingAlarm()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:145:5:int Model::countdownAlarmSetTick()	8	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:157:5:int Model::countdownOngoingAlarmSetTick()	8	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:171:6:void Model::stopCountdownAlarmSet()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:183:6:void Model::updatePinNumber()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:229:6:void Model::clickButton1()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:231:6:void Model::clickButton2()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:233:6:void Model::clickButton3()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:235:6:void Model::clickButton4()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:237:6:void Model::clickButton5()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:239:6:void Model::clickButton6()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:241:6:void Model::clickButton7()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:243:6:void Model::clickButton8()	16	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/gui/src/model/Model.cpp:245:6:void Model::clickButton9()	16	static

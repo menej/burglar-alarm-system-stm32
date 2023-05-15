@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:738:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:118:6:HAL_UARTEx_RxEventCallback	24	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:245:6:SystemClock_Config	128	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:137:5:main	112	static,ignoring_inline_asm
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:830:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/Core/Src/main.c:847:6:Error_Handler	0	static

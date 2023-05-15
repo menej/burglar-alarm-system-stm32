@@ -1,0 +1,25 @@
+ModelListener.hpp:20:18:virtual void ModelListener::setPolice(bool)	1
+Model.cpp:18:1:Model::Model()	1
+Model.cpp:33:6:void Model::tick()	11
+Model.cpp:76:6:void Model::sendStartSensingCommPacket()	1
+Model.cpp:85:6:void Model::sendStopSensingCommPacket()	1
+Model.cpp:96:6:void Model::turnBuzzerOn()	1
+Model.cpp:103:6:void Model::turnBuzzerOff()	1
+Model.cpp:112:6:bool Model::getAlarmSystemState()	1
+Model.cpp:117:6:bool Model::getCountdownAlarmSetState()	1
+Model.cpp:122:6:bool Model::getCountdownOngoingAlarmSetState()	1
+Model.cpp:129:6:void Model::activateAlarmSystem()	1
+Model.cpp:137:6:void Model::activateOngoingAlarm()	1
+Model.cpp:145:5:int Model::countdownAlarmSetTick()	2
+Model.cpp:157:5:int Model::countdownOngoingAlarmSetTick()	3
+Model.cpp:171:6:void Model::stopCountdownAlarmSet()	1
+Model.cpp:183:6:void Model::updatePinNumber()	7
+Model.cpp:229:6:void Model::clickButton1()	7
+Model.cpp:231:6:void Model::clickButton2()	7
+Model.cpp:233:6:void Model::clickButton3()	7
+Model.cpp:235:6:void Model::clickButton4()	7
+Model.cpp:237:6:void Model::clickButton5()	7
+Model.cpp:239:6:void Model::clickButton6()	7
+Model.cpp:241:6:void Model::clickButton7()	7
+Model.cpp:243:6:void Model::clickButton8()	7
+Model.cpp:245:6:void Model::clickButton9()	7

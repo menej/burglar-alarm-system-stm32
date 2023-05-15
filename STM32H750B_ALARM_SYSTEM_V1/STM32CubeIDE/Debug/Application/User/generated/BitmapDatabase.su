@@ -1,0 +1,2 @@
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/generated/images/src/BitmapDatabase.cpp:21:37:const touchgfx::Bitmap::BitmapData* BitmapDatabase::getInstance()	0	static
+C:/TouchGFXProjects/STM32H750B_ALARM_SYSTEM_V1/TouchGFX/generated/images/src/BitmapDatabase.cpp:26:10:uint16_t BitmapDatabase::getInstanceSize()	0	static
